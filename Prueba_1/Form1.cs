@@ -28,5 +28,11 @@ namespace Prueba_1
         {
             throw new System.NotImplementedException();
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
     }//prueba dos
+    //prueba final
 }
