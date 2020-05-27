@@ -1,0 +1,8 @@
+C:\Users\Carlos\Desktop\Folder2\Prueba2parcial\Pruebaparcial\Prueba_1\bin\Debug\Prueba_1.exe.config
+C:\Users\Carlos\Desktop\Folder2\Prueba2parcial\Pruebaparcial\Prueba_1\bin\Debug\Prueba_1.exe
+C:\Users\Carlos\Desktop\Folder2\Prueba2parcial\Pruebaparcial\Prueba_1\bin\Debug\Prueba_1.pdb
+C:\Users\Carlos\Desktop\Folder2\Prueba2parcial\Pruebaparcial\Prueba_1\obj\Debug\Prueba_1.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Folder2\Prueba2parcial\Pruebaparcial\Prueba_1\obj\Debug\Prueba_1.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Folder2\Prueba2parcial\Pruebaparcial\Prueba_1\obj\Debug\Prueba_1.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Folder2\Prueba2parcial\Pruebaparcial\Prueba_1\obj\Debug\Prueba_1.exe
+C:\Users\Carlos\Desktop\Folder2\Prueba2parcial\Pruebaparcial\Prueba_1\obj\Debug\Prueba_1.pdb

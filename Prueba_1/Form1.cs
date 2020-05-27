@@ -16,6 +16,17 @@ namespace Prueba_1
         {
             InitializeComponent();
             //esto es una prueba para probar el github
+            
         }
-    }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
+    }//prueba dos
 }
